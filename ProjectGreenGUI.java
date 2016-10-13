@@ -61,7 +61,7 @@ public class ProjectGreenGUI extends JFrame {
         contentPane.add(textField_1);
         textField_1.setColumns(10);
 
-        JLabel lblRoadWidthm = new JLabel("Road Length (m)");
+        JLabel lblRoadWidthm = new JLabel("3 Way or 4 Way");
         lblRoadWidthm.setBounds(45, 75, 116, 16);
         contentPane.add(lblRoadWidthm);
 
