@@ -1,0 +1,10 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+mainClassName = 'ProjectGreenGUI'
+
+jar {
+  manifest {
+    attributes 'Main-Class' : 'ProjectGreenGUI'
+  }
+}
