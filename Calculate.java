@@ -1,3 +1,5 @@
-public class Calculate {
-  
-  Calculate intersection = new Calculate
+#include <stdio.h>
+
+int main(void){
+    printf("java sucks");
+}
